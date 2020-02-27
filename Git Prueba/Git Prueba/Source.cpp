@@ -9,5 +9,6 @@ int main() {
 
 	}
 	std::cout << sum;
+	std::cout << "pich";
 	return 0;
 }
