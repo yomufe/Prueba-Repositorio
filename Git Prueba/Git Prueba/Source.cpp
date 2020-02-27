@@ -10,5 +10,7 @@ int main() {
 	}
 	std::cout << sum;
 	std::cout << "pich";
+	std::cout << "pich";
+
 	return 0;
 }
