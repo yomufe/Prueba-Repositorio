@@ -11,6 +11,8 @@ int main() {
 	std::cout << sum;
 	std::cout << "pich";
 	std::cout << "pich";
+	std::cout << "Sum: " << sum;
+	std::cout << "Sum: " << sum;
 
 	return 0;
 }
